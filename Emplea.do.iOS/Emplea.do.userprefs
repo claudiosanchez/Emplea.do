@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechPepper.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="CurrentListScreen.cs" Line="1" Column="1" />
+      <File FileName="Proxy/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="View/JobPosting/JobPostingCell.cs" Line="1" Column="1" />
+      <File FileName="SplashScreen.cs" Line="42" Column="6" />
+      <File FileName="TechPepper.cs" Line="21" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Projects/Emplea.do/Emplea.do.iOS/Proxy/EmptyClass.cs" line="19" column="5" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
